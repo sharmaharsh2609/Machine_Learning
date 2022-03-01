@@ -1,0 +1,27 @@
+#please do not try to chnage naes. Names of files and images are used inside programs and changing them may cause errors in program.
+
+
+#because 10-19 is mixed with 1 and 2 with 20-29 and so on.
+#So we need to keep 1-9 lectures different(ny starting from a) and remaining 10-99 in b. After 99, 100 and further again starts mixing..but their won't be more than 99 lectures:)
+
+Here names are given like(intro lecture): a0.1, a0.2, a0.3...
+then 1st lecture:	a1.1, a1.2, a1.3, a1.4, .....
+.
+.
+.
+.
+9th lecture:	 a9.1, a9.2, a9.3....
+10th lecture:	 b10.1, b11.2, b13.3,...
+.
+.
+.
+19th lecture:	 b19.1,b19.2, ...
+20th lecture:	 b20.1, b20.2, ....
+.
+.
+.
+99th lecture:	b99.1, b99.2, ...
+100th lecture:  c100.1, c100.2, 
+
+
+ 
